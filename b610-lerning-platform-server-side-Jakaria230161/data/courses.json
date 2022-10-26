@@ -1,0 +1,71 @@
+[
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "category_id": "01",
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "total_view": 400,
+    "title": "HTML & CSS",
+    "published_date": "2022-08-30 16:38:45",
+    "price": 12,
+    "image_url": "https://tolustar.com/wp-content/uploads/2020/02/html-css.jpg",
+    "details": "Become a modern and confident HTML and CSS developer, no prior knowledge needed!"
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "category_id": "02",
+    "rating": { "number": 4.3, "badge": "Excellent" },
+    "total_view": 400,
+    "title": "JavaScript",
+    "published_date": "2022-08-30 16:38:45",
+    "price": 30,
+    "image_url": "https://cdn.acodez.in/wp-content/uploads/2019/08/History-of-javascript.jpg",
+    "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+  },
+
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "React Js",
+    "published_date": "2022-08-24 23:15:00",
+    "price": 21,
+    "image_url": "https://sc04.alicdn.com/kf/U0721a48732814105aae97d2245765dd2a.png",
+    "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "Node Js",
+    "published_date": "2022-08-24 23:15:00",
+    "price": 26,
+    "image_url": "https://sc04.alicdn.com/kf/A40f3c3dc6874425d89fd7a5207ee4ded4.png",
+    "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+  },
+
+  {
+    "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": null,
+    "title": "Redux",
+    "published_date": "2022-08-30 15:00:04",
+    "price": 8,
+    "image_url": "https://ih1.redbubble.net/image.413059324.7813/st,small,507x507-pad,600x600,f8f8f8.u1.jpg",
+    "details": "Fox News's top-rated host, Tucker Carlson, claimed on Monday night that Russian President Vladimir Putin is in fact winning the war in Ukraine, and President Joe Biden's insistence that Putin surrenders his campaign to take over Ukraine is actually evidence Biden's ultimate goal is to 'destroy the West.' Carlson arrived at his bizarre claim after railing against European and American military aid to Ukraine. 'Italy's Ukraine funding is a lot, but it's not quite as much as France. France has sent more than $2 billion U."
+  },
+
+  {
+    "_id": "a713ee936ff5574273f0f769f5c5b20e",
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 111,
+    "title": "Next Js",
+    "published_date": null,
+    "price": 16,
+    "image_url": "https://cdn-ak.f.st-hatena.com/images/fotolife/d/dev04K/20220110/20220110141023.jpg",
+    "details": "To receive Global Research's Daily Newsletter (selected articles), click here. Follow us on Instagram and Twitter and subscribe to our Telegram Channel. Feel free to repost and share widely Global Research articles. *** In response to Russia's attack on Ukraine, US President Joe Biden vowed to isolate... read full story"
+  }
+]
